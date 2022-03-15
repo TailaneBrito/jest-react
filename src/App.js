@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <b>Tailane</b>
+        <p>Jest Tests</p>
       </header>
     </div>
   );
